@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://demolab.com" alt="Typing SVG" />
+# Hi there, I'm Ranjith Raja K 👋
 
-<p align="center">
-  <em>"Testing tomorrow's software today — crafting thoughtful feedback for cleaner user experiences."</em>
-</p>
+### `Open Source Enthusiast` • `Beta Tester` • `UI/UX Explorer`
 
-<!-- Clean Modern Badges -->
-<p align="center">
-  <img src="https://shields.io" alt="Open Source" />
-  <img src="https://shields.io" alt="Beta Tester" />
-  <img src="https://shields.io" alt="UI/UX Explorer" />
-</p>
+*"Testing tomorrow's software today — crafting thoughtful feedback for cleaner user experiences."*
 
 </div>
 
@@ -47,23 +39,14 @@ I thrive on the bleeding edge of technology—exploring **beta releases**, **pre
 
 ### 🛠️ Core Interests & Ecosystem
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+| Focus Area | What I Explore |
+| :--- | :--- |
+| **📱 Beta & Preview Testing** | Android Beta Programs, Early Access Apps, Canary & Nightly Builds |
+| **🎨 UI/UX Evaluation** | Modern Interfaces, Animations, Dark Mode Aesthetics, Usability |
+| **🌐 Open Source (OSS)** | Issue Reporting, Feature Testing, Community Discussions |
+| **🐞 Quality & Feedback** | Reproducing Bugs, Edge-Case Testing, Structured UX Reviews |
 
 ---
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://vercel.app" alt="Ranjith's GitHub Stats" />
-</div>
-
-<br/>
 
 <div align="center">
   <sub>💡 Always open to testing new beta apps, preview releases, and reviewing UI/UX flows!</sub>
